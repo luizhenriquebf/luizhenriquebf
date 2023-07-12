@@ -2,7 +2,7 @@
 
 
 - 📖 Estudante de ADS.
-- 🔭 Sou auxiliar de suporte, futuro desenvolvedor back-end.
+- 🔭 Sou auxiliar de suporte - TI, futuro desenvolvedor back-end.
 - ☕ Atualmente estou aprendendo Java/Spring boot.
 
 ##
